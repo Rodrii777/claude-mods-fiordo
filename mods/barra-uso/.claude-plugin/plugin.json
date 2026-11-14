@@ -1,0 +1,7 @@
+{
+  "name": "barra-uso",
+  "version": "0.1.0",
+  "description": "Barra sobre el prompt con contexto, límite de 5 h y de 7 d",
+  "author": { "name": "Rodrii777" },
+  "types": "./types/index.d.ts"
+}

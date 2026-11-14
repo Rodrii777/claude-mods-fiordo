@@ -1,0 +1,17 @@
+{
+  "name": "mods-fiordo",
+  "description": "Tema Fiordo con aurora animada y barra de uso para la app de escritorio de Claude Code",
+  "owner": { "name": "Rodrii777" },
+  "plugins": [
+    {
+      "name": "fondo-vivo",
+      "source": "./mods/fondo-vivo",
+      "description": "Tema Fiordo: colores glaciar y una aurora animada detrás de la conversación"
+    },
+    {
+      "name": "barra-uso",
+      "source": "./mods/barra-uso",
+      "description": "Barra sobre el prompt con contexto, límite de 5 h y de 7 d, y avisos por escalones"
+    }
+  ]
+}
